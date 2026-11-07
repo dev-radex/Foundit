@@ -56,4 +56,4 @@ Tests run the PostgreSQL schema and real application API handlers against PGlite
 | `supabase/migrations/`               | Schema, constraints, indexes and private bucket   |
 | `tests/`                             | PostgreSQL, privacy and workflow regression tests |
 
-See [implementation notes](docs/IMPLEMENTATION.md) for permission boundaries and remaining operational limitations.
+See [implementation note](docs/IMPLEMENTATION.md) for permission boundaries and remaining operational limitations.
